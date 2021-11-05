@@ -1,0 +1,33 @@
+###########################################
+# Syntax Coloring Map For EasyLib
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+UltrasonicEasyLib KEYWORD1
+InfraredEasyLib KEYWORD1
+
+#######################################
+# Instances (KEYWORD1)
+#######################################
+
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+# UltrasonicEasyLib methods
+Shot KEYWORD2
+PrecisionShot KEYWORD2
+GetCentimeters KEYWORD2
+GetInches KEYWORD2
+
+# InfraredEasyLib methods
+IsObstacle KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
