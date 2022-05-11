@@ -11,3 +11,9 @@ over time I will add more libraries as I buy more sensors in my collection of el
 
 ## *InfraredSensorEasyLib*
 [Link to InfraredSensorEasyLib .md](https://github.com/losniercruz/EasyLib/blob/main/src/InfraredSensorEasyLibReadme.md)
+
+---
+
+## *Losnier Cruz Repo*
+[Link to Losnier Cruz .md](https://github.com/losniercruz/losniercruz)
+
