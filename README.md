@@ -14,6 +14,6 @@ over time I will add more libraries as I buy more sensors in my collection of el
 
 ---
 
-## *Losnier Cruz Repo*
+## *Losnier Cruz Repository*
 [Link to Losnier Cruz .md](https://github.com/losniercruz/losniercruz)
 
